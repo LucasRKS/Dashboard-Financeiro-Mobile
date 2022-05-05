@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Seconds",
+    "slug": "Seconds",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./src/assets/img/logo/logo.png",
+    "splash": {
+      "image": "./src/assets/img/logo/logo_splash_app.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#7814b3"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.seconds.SecondsApp"
+    }
+  }
+}
