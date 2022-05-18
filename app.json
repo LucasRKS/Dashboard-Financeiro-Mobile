@@ -20,7 +20,8 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.seconds.SecondsApp"
+      "package": "com.seconds.SecondsApp",
+      "permissions": []
     }
   }
 }

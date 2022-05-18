@@ -18,7 +18,7 @@ export const TextFilterPlaceholder = styled.Text`
 `;
 
 export const DataText = styled.Text`
-  font-size: 15px;
+  font-size: 12px;
 `;
 
 export const ButtonDataFiltro = styled(RectButton)`
